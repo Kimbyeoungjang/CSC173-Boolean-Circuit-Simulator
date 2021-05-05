@@ -11,3 +11,4 @@ I had to replace my earlier reference-sharing implementation of circuit connecti
 
 This code gets a clean report from valgrind when compiled with gcc on Fedora Linux (July 2017).
 
+To run this code, install mingw64 and run build.bat
